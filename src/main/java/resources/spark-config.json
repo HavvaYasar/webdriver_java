@@ -1,0 +1,12 @@
+{
+  "theme": "DARK",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": true,
+  "offlineMode": true,
+  "documentTitle": "LCW Test Automation",
+  "reportName": "LCW TEST AUTOMATION",
+  "timeStampFormat": "MMM dd, yyyy HH:mm:ss a",
+  "js": "$('.brand-logo img').attr('src','https://mp.s81c.com/pwb-production/28ef82bdca420a4236188c533e0a0ff1/offering_49fd23dd-b632-4780-b401-23ff9f1073dd.png').width(65).css('marginLeft', '0px')",
+  "css": ""
+}
